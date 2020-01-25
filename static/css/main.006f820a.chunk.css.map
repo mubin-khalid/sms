@@ -1,0 +1,1 @@
+{"version":3,"sources":["card.styles.css"],"names":[],"mappings":"AAAA,oBACE,4BAAqB,CAArB,oBAAqB,CACrB,uEAA+D,CAA/D,+DAA+D,CAA/D,uDAA+D,CAA/D,4GACF,CAEA,YACE,cACF","file":"main.006f820a.chunk.css","sourcesContent":[".card:hover .number {\n  transform: scale(1.1);\n  transition: transform 1s cubic-bezier(0.6, -0.28, 0.735, 0.045);\n}\n\n.card:hover {\n  cursor: pointer;\n}\n"]}
